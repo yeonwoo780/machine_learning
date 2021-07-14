@@ -10,9 +10,16 @@
 
 - KFold
 - Stratified
-
 - cross_val_score (api)
 - GridSearchCV (api)
+
+
+
+#### 데이터 전처리
+
+- one-Hot Encoding
+- StandardScaler
+- MinMaxScaler
 
 -----
 

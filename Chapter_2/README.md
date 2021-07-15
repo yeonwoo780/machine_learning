@@ -21,5 +21,9 @@
 - StandardScaler
 - MinMaxScaler
 
+
+
+[[실습파일]](https://nbviewer.jupyter.org/github/yeonwoo780/machine_learning/blob/test/Chapter_2/Chapter_2_example.ipynb)
+
 -----
 

@@ -20,3 +20,18 @@
 
 -----
 
+
+
+## [[Chapter3]](https://github.com/yeonwoo780/machine_learning/tree/test/Chapter_3)
+
+#### 분류의 성능 평가 지표
+
+- 정확도 (Accuracy)
+- 오차행렬(Confusion matrix)
+- 정밀도(Precision)와 재현율(Recall)
+- 정밀도 / 재현율 트레이드 오프(Trade-off)
+- F1 스코어
+- ROC 곡선과 AUC
+
+-----
+

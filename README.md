@@ -35,3 +35,18 @@
 
 -----
 
+
+
+## [[Chapter4]](https://github.com/yeonwoo780/machine_learning/tree/test/Chapter_4)
+
+#### 분류
+
+- 결정트리
+- 앙상블학습
+- 랜덤 포레스트
+- GBM
+- XGBoost
+- LightGBM
+
+-----
+
